@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Types:
+=======
+Types:
+>>>>>>> b8e8f9a35f6107a4c9b333111e261246a7bacbba
